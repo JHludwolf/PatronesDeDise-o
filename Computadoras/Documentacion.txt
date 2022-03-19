@@ -1,0 +1,21 @@
+# Ventas de Computadoras
+# José Luis Lobera del Castillo 0224643
+# Patrones de Diseño y Arquitecturas de Software
+# 18 de Marzo del 2022
+# Maestra: Lidia Chávez López
+# Universidad Panamericana
+
+Para éste problema decidí usar el patron builder (ComputerBuilder.cs) en donde, por medio de métodos, va creando elemento por elemento la computadora, dando al usuario la opcion de elegir el CPU, agregar perifericos de entrada, salida y/o touchsreens.
+
+El builder (ComputerBuilder.cs) es manejado por una clase directora (Director.cs) en donde por medio de la consola, el usuario puede elegir sus perifericos así como también los puede eliminar y consultar el precio total en cualquier momento.
+
+La clase director (Director.cs) tiene predefinidos varios perifericos, 
+un periferico abstracto (Component.cs) tiene como atributos la marca, el modelo y el precio, tambien tiene un método abstracto para mostrar los atributos en consola (ShowInfo())
+
+Cuatro clases implementan nuestro periferico abstracto (Component.cs):
+* Unidad Central de Procesamiento (CPU.cs)
+* Pantalla Tactil (Touchscreen.cs)
+* Perifericos de entrada (InputDevice.cs)
+* Perifericos de salida (OutputDevice.cs)
+
+Tanto perifericos de entrada y perifericos de salida son clases abstractas, ya que de éstas heredan los perifericos en especifico (Mouse.cs, Keyboard.cs, GraphicTablet.cs, Monitor.cs, Printer.cs)
