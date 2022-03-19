@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5612ACAE-A854-45C0-BB34-B637E6081564}|Default">
+  <MonoDevelop.Ide.ItemProperties.VentaDeComputadoras2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VentaDeComputadoras2/Program.cs">
+    <Files>
+      <File FileName="VentaDeComputadoras2/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

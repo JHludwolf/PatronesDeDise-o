@@ -1,0 +1,16 @@
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2.deps.json
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2.runtimeconfig.json
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2.runtimeconfig.dev.json
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/bin/Debug/net5.0/VentaDeComputadoras2.pdb
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.csproj.AssemblyReference.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.AssemblyInfoInputs.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.AssemblyInfo.cs
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.csproj.CoreCompileInputs.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/refint/VentaDeComputadoras2.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.pdb
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/VentaDeComputadoras2.genruntimeconfig.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/Debug/net5.0/ref/VentaDeComputadoras2.dll

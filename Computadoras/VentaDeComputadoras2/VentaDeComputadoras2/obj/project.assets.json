@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/Joe/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/VentaDeComputadoras2.csproj",
+      "projectName": "VentaDeComputadoras2",
+      "projectPath": "/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/VentaDeComputadoras2.csproj",
+      "packagesPath": "/Users/Joe/.nuget/packages/",
+      "outputPath": "/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/Tareas/Computadoras/VentaDeComputadoras2/VentaDeComputadoras2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/Joe/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
