@@ -1,3 +1,3 @@
-# PatronesDeDise-o
+# Patrones de Diseño y Arquitecturas de Software
 
-# Alumni API
+## Universidad Panamericanta
