@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4B361D69-4E7D-4BB8-A92F-5849C5E054B8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SegundoExamen/Alumno.cs">
+    <Files>
+      <File FileName="SegundoExamen/Program.cs" Line="22" Column="48" />
+      <File FileName="SegundoExamen/DatabaseConnection.cs" Line="21" Column="56" />
+      <File FileName="SegundoExamen/Adapter.cs" Line="42" Column="51" />
+      <File FileName="SegundoExamen/UsuarioActivo.cs" Line="6" Column="67" />
+      <File FileName="SegundoExamen/Usuario.cs" Line="27" Column="47" />
+      <File FileName="SegundoExamen/Docente.cs" Line="22" Column="89" />
+      <File FileName="SegundoExamen/EmptyClass.cs" Line="114" Column="27" />
+      <File FileName="SegundoExamen/Alumno.cs" Line="56" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SegundoExamen" expanded="True">
+            <Node name="SegundoExamen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SegundoExamen PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

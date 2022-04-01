@@ -1,0 +1,332 @@
+{
+    "alumnos": [
+        {
+            "id": "A0000",
+            "nombre": "Jacinto",
+            "apellido": "Peres",
+            "carrera": "IIA",
+            "nacimiento": "00-11-27",
+            "ciudad": "ROO",
+            "contrasena": "JP0000"
+        },
+        {
+            "id": "A0001",
+            "nombre": "Maximiliano",
+            "apellido": "Negr\u00f3n",
+            "carrera": "IIA",
+            "nacimiento": "02-12-22",
+            "ciudad": "YUC",
+            "contrasena": "MN0001"
+        },
+        {
+            "id": "A0002",
+            "nombre": "Soledad",
+            "apellido": "Marrero",
+            "carrera": "IIA",
+            "nacimiento": "99-03-14",
+            "ciudad": "BCS",
+            "contrasena": "SM0002"
+        },
+        {
+            "id": "A0003",
+            "nombre": "Alta  Gracia",
+            "apellido": "C\u00f3rdova",
+            "carrera": "IIA",
+            "nacimiento": "99-07-21",
+            "ciudad": "NL",
+            "contrasena": "AC0003"
+        },
+        {
+            "id": "A0004",
+            "nombre": "Ad\u00e1n",
+            "apellido": "Mart\u00ednez",
+            "carrera": "IIA",
+            "nacimiento": "02-03-24",
+            "ciudad": "DF",
+            "contrasena": "AM0004"
+        },
+        {
+            "id": "A0005",
+            "nombre": "Salma",
+            "apellido": "Ord\u00f3\u00f1ez",
+            "carrera": "IIA",
+            "nacimiento": "02-10-30",
+            "ciudad": "SON",
+            "contrasena": "SO0005"
+        },
+        {
+            "id": "A0006",
+            "nombre": "Sessa",
+            "apellido": "Alonso",
+            "carrera": "IIA",
+            "nacimiento": "02-02-14",
+            "ciudad": "SLP",
+            "contrasena": "SA0006"
+        },
+        {
+            "id": "A0007",
+            "nombre": "Josefina",
+            "apellido": "Solano",
+            "carrera": "IIA",
+            "nacimiento": "99-12-16",
+            "ciudad": "MICH",
+            "contrasena": "JS0007"
+        },
+        {
+            "id": "A0008",
+            "nombre": "Bernardo",
+            "apellido": "Carrasco",
+            "carrera": "IIA",
+            "nacimiento": "02-08-06",
+            "ciudad": "MOR",
+            "contrasena": "BC0008"
+        },
+        {
+            "id": "A0009",
+            "nombre": "Carmen",
+            "apellido": "Zepeda",
+            "carrera": "IIA",
+            "nacimiento": "01-04-25",
+            "ciudad": "JAL",
+            "contrasena": "CZ0009"
+        },
+        {
+            "id": "A0010",
+            "nombre": "Emiliano",
+            "apellido": "Arriaga",
+            "carrera": "IIA",
+            "nacimiento": "02-07-18",
+            "ciudad": "YUC",
+            "contrasena": "EA0010"
+        },
+        {
+            "id": "A0011",
+            "nombre": "Mercedes",
+            "apellido": "Garrido",
+            "carrera": "IIA",
+            "nacimiento": "99-03-20",
+            "ciudad": "CAMP",
+            "contrasena": "MG0011"
+        },
+        {
+            "id": "A0012",
+            "nombre": "Josefina",
+            "apellido": "Nava",
+            "carrera": "IIA",
+            "nacimiento": "02-07-21",
+            "ciudad": "GRO",
+            "contrasena": "JN0012"
+        },
+        {
+            "id": "A0013",
+            "nombre": "Pascual",
+            "apellido": "Est\u00e9vez",
+            "carrera": "IIA",
+            "nacimiento": "02-11-07",
+            "ciudad": "MOR",
+            "contrasena": "PE0013"
+        },
+        {
+            "id": "A0014",
+            "nombre": "Dulce",
+            "apellido": "Vergara",
+            "carrera": "IIA",
+            "nacimiento": "99-02-25",
+            "ciudad": "SIN",
+            "contrasena": "DV0014"
+        },
+        {
+            "id": "A0015",
+            "nombre": "Andr\u00e9s",
+            "apellido": "Casares",
+            "carrera": "IIA",
+            "nacimiento": "01-05-29",
+            "ciudad": "CAMP",
+            "contrasena": "AC0015"
+        },
+        {
+            "id": "A0016",
+            "nombre": "Antonia",
+            "apellido": "Fl\u00f3rez",
+            "carrera": "IIA",
+            "nacimiento": "99-09-02",
+            "ciudad": "SIN",
+            "contrasena": "AF0016"
+        },
+        {
+            "id": "A0017",
+            "nombre": "Jos\u00e9 Eduardo",
+            "apellido": "Mendoza",
+            "carrera": "IIA",
+            "nacimiento": "99-08-18",
+            "ciudad": "BCS",
+            "contrasena": "JM0017"
+        },
+        {
+            "id": "A0018",
+            "nombre": "Irene",
+            "apellido": "Ponce",
+            "carrera": "IIA",
+            "nacimiento": "02-07-06",
+            "ciudad": "DF",
+            "contrasena": "IP0018"
+        },
+        {
+            "id": "A0019",
+            "nombre": "Noelia",
+            "apellido": "Pedraza",
+            "carrera": "IIA",
+            "nacimiento": "99-04-08",
+            "ciudad": "OAX",
+            "contrasena": "NP0019"
+        },
+        {
+            "id": "A0020",
+            "nombre": "Aurelio",
+            "apellido": "Rodr\u00edguez",
+            "carrera": "IIA",
+            "nacimiento": "01-09-01",
+            "ciudad": "DGO",
+            "contrasena": "AR0020"
+        },
+        {
+            "id": "A0021",
+            "nombre": "Ramiro",
+            "apellido": "Cervantes",
+            "carrera": "IIA",
+            "nacimiento": "99-08-29",
+            "ciudad": "PUE",
+            "contrasena": "RC0021"
+        },
+        {
+            "id": "A0022",
+            "nombre": "Ruby",
+            "apellido": "Reyes",
+            "carrera": "IIA",
+            "nacimiento": "00-05-26",
+            "ciudad": "CHIS",
+            "contrasena": "RR0022"
+        },
+        {
+            "id": "A0023",
+            "nombre": "Luis Miguel",
+            "apellido": "Camacho",
+            "carrera": "IIA",
+            "nacimiento": "02-01-18",
+            "ciudad": "SON",
+            "contrasena": "LC0023"
+        },
+        {
+            "id": "A0024",
+            "nombre": "Isaac",
+            "apellido": "Armenta",
+            "carrera": "IIA",
+            "nacimiento": "00-01-31",
+            "ciudad": "MEX",
+            "contrasena": "IA0024"
+        },
+        {
+            "id": "A0025",
+            "nombre": "Rolando",
+            "apellido": "Lucio",
+            "carrera": "IIA",
+            "nacimiento": "01-04-13",
+            "ciudad": "SLP",
+            "contrasena": "RL0025"
+        },
+        {
+            "id": "A0026",
+            "nombre": "Leonor",
+            "apellido": "Cerv\u00e1ntez",
+            "carrera": "IIA",
+            "nacimiento": "00-02-16",
+            "ciudad": "JAL",
+            "contrasena": "LC0026"
+        },
+        {
+            "id": "A0027",
+            "nombre": "Micaela",
+            "apellido": "Botello",
+            "carrera": "IIA",
+            "nacimiento": "00-12-10",
+            "ciudad": "CHIH",
+            "contrasena": "MB0027"
+        }
+    ],
+    "docentes": [
+        {
+            "id": "D0000",
+            "nombre": "Mariano",
+            "apellido": "Tamez",
+            "carrera": "N/A",
+            "nacimiento": "77-06-12",
+            "ciudad": "ROO",
+            "contrasena": "MT0000"
+        },
+        {
+            "id": "D0001",
+            "nombre": "Concepci\u00f3n",
+            "apellido": "de la O",
+            "carrera": "N/A",
+            "nacimiento": "86-03-24",
+            "ciudad": "COAH",
+            "contrasena": "Cd0001"
+        },
+        {
+            "id": "D0002",
+            "nombre": "\u00darsula",
+            "apellido": "Jaimes",
+            "carrera": "N/A",
+            "nacimiento": "74-11-30",
+            "ciudad": "OAX",
+            "contrasena": "\u00daJ0002"
+        },
+        {
+            "id": "D0003",
+            "nombre": "Jos",
+            "apellido": "Cant\u00fa",
+            "carrera": "N/A",
+            "nacimiento": "81-09-13",
+            "ciudad": "GRO",
+            "contrasena": "JC0003"
+        },
+        {
+            "id": "D0004",
+            "nombre": "Estela",
+            "apellido": "Rosario",
+            "carrera": "N/A",
+            "nacimiento": "79-01-30",
+            "ciudad": "PUE",
+            "contrasena": "ER0004"
+        }
+    ],
+    "supervisores": [
+        {
+            "id": "S0000",
+            "nombre": "Helena",
+            "apellido": "Aguilar",
+            "carrera": "N/A",
+            "nacimiento": "88-12-30",
+            "ciudad": "DF",
+            "contrasena": "HA0000"
+        },
+        {
+            "id": "S0001",
+            "nombre": "Omar",
+            "apellido": "Gonzales",
+            "carrera": "N/A",
+            "nacimiento": "80-06-10",
+            "ciudad": "OAX",
+            "contrasena": "OG0001"
+        },
+        {
+            "id": "S0002",
+            "nombre": "Emilio",
+            "apellido": "Paredes",
+            "carrera": "N/A",
+            "nacimiento": "81-12-14",
+            "ciudad": "YUC",
+            "contrasena": "EP0002"
+        }
+    ]
+}

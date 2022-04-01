@@ -1,0 +1,572 @@
+{
+    "PAEV": [
+        {
+            "id_alumno": "A0000",
+            "calificacion": 3
+        },
+        {
+            "id_alumno": "A0001",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0002",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0003",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0004",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0005",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0006",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0007",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0008",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0009",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0010",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0011",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0012",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0013",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0014",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0015",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0016",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0017",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0018",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0019",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0020",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0021",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0022",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0023",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0024",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0025",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0026",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0027",
+            "calificacion": 10
+        }
+    ],
+    "PDAS": [
+        {
+            "id_alumno": "A0000",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0001",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0002",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0003",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0004",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0005",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0006",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0007",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0008",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0009",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0010",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0011",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0012",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0013",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0014",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0015",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0016",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0017",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0018",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0019",
+            "calificacion": 6
+        },
+        {
+            "id_alumno": "A0020",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0021",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0022",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0023",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0024",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0025",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0026",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0027",
+            "calificacion": 7
+        }
+    ],
+    "MI2": [
+        {
+            "id_alumno": "A0000",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0001",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0002",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0003",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0004",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0005",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0006",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0007",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0008",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0009",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0010",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0011",
+            "calificacion": 6
+        },
+        {
+            "id_alumno": "A0012",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0013",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0014",
+            "calificacion": 1
+        },
+        {
+            "id_alumno": "A0015",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0016",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0017",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0018",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0019",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0020",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0021",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0022",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0023",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0024",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0025",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0026",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0027",
+            "calificacion": 8
+        }
+    ],
+    "BDA": [
+        {
+            "id_alumno": "A0000",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0001",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0002",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0003",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0004",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0005",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0006",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0007",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0008",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0009",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0010",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0011",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0012",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0013",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0014",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0015",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0016",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0017",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0018",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0019",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0020",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0021",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0022",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0023",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0024",
+            "calificacion": 4
+        },
+        {
+            "id_alumno": "A0025",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0026",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0027",
+            "calificacion": 7
+        }
+    ],
+    "AM1": [
+        {
+            "id_alumno": "A0000",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0001",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0002",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0003",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0004",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0005",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0006",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0007",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0008",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0009",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0010",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0011",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0012",
+            "calificacion": 0
+        },
+        {
+            "id_alumno": "A0013",
+            "calificacion": 7
+        },
+        {
+            "id_alumno": "A0014",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0015",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0016",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0017",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0018",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0019",
+            "calificacion": 0
+        },
+        {
+            "id_alumno": "A0020",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0021",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0022",
+            "calificacion": 2
+        },
+        {
+            "id_alumno": "A0023",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0024",
+            "calificacion": 9
+        },
+        {
+            "id_alumno": "A0025",
+            "calificacion": 8
+        },
+        {
+            "id_alumno": "A0026",
+            "calificacion": 10
+        },
+        {
+            "id_alumno": "A0027",
+            "calificacion": 9
+        }
+    ]
+}

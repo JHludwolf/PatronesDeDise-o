@@ -1,0 +1,29 @@
+{
+    "IIA": [
+        {
+            "id_materia": "PAEV",
+            "nombre_de_materia": "Programaci\u00f3n de Agentes y Entornos Virtuales",
+            "docente": "D0000"
+        },
+        {
+            "id_materia": "PDAS",
+            "nombre_de_materia": "Patrones de Dise\u00f1o y Arquitecturas de Software",
+            "docente": "D0001"
+        },
+        {
+            "id_materia": "MI2",
+            "nombre_de_materia": "Microcontroladores II",
+            "docente": "D0002"
+        },
+        {
+            "id_materia": "BDA",
+            "nombre_de_materia": "Bases de Datos Avanzadas",
+            "docente": "D0003"
+        },
+        {
+            "id_materia": "AM1",
+            "nombre_de_materia": "Aprendizaje de M\u00e1quina I",
+            "docente": "D0004"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/SegundoExamen
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/SegundoExamen.deps.json
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/SegundoExamen.runtimeconfig.json
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/SegundoExamen.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/SegundoExamen.pdb
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.csproj.AssemblyReference.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.AssemblyInfoInputs.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.AssemblyInfo.cs
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.csproj.CoreCompileInputs.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.csproj.CopyComplete
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/refint/SegundoExamen.dll
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.pdb
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/SegundoExamen.genruntimeconfig.cache
+/Users/Joe/Docs/UP/6toSemestre/Patrones de Diseño y Arquitecturas de Software/2do Parcial/SegundoExamenPractico/SegundoExamen/SegundoExamen/obj/Release/net6.0/ref/SegundoExamen.dll
