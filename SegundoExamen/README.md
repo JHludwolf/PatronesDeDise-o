@@ -91,7 +91,7 @@ Dichas consultas van a variar dependiendo del Usuario que haya iniciado sesión,
 
 ### Justificación
 
-El motivo de usar Singleton en las clases ActiveUser y fue que consideré innecesaria la posibilidad de tener más de un usuario o más de una aplicación ejecutandose al mismo tiempo porque, aunque yo programé el código y se que en ningún momento se van a crear más instancias, existe la posibilidad de que alguien más llegue e intente instanciar un usuario o aplicación en lugar de llamar a la instancia ya existente.
+El motivo de usar Singleton en las clases ActiveUser y Aplicaciones fue que consideré innecesaria la posibilidad de tener más de un usuario o más de una aplicación ejecutandose al mismo tiempo porque, aunque yo programé el código y se que en ningún momento se van a crear más instancias, existe la posibilidad de que alguien más llegue e intente instanciar un usuario o aplicación en lugar de llamar a la instancia ya existente.
 
 En el caso del adapter fue un patron que no había considerado, la primera idea era consultar siempre directamente al JSON, pero cuando la maestra sugirió que no nos "casáramos" con JSON fue cuando me percaté de la necesidad de tener un tipo de memoria constante en la aplicación sin importar la fuente de proveniencia. Es por eso que la clase DatabaseConnection (`DatabaseConnection.cs`) está abierta a la creación de nuevos métodos, por si en algún momento la fuente de la información cambia.
 
