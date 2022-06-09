@@ -47,13 +47,15 @@ Conectarse a una API es un proceso complicado, ya que requiere de solicitudes y 
 
 #### De comportamiento
 
-#####
+##### Observer
+
+Este patrón no existe actualmente en la entrega, pero la intención era que en el Windows Forms el usuario pudiera seleccionar checkboxes con los tipos de visualización de la bitácora. Si el checkbox del archivo txt se encontraba activo, entonces se escribiría dicho archivo, lo mismo para el grid y el textbox.
 
 ### Clases:
 
 Lo que más destaca de la aplicación es el uso de códigos QR (`QRCode.cs`). Ésta clase contiene una función **ReadQR(String path)** que recibe un String con la dirección del código y que después de establecer conexión con la API de Códigos QR, devuelve una string con los datos en formato JSON.
 
-Si algún día se desarrollara ésta aplicación para mobiles, se solicitaria acceso a la cámara para escanear los códigos, pero omo la aplicación solo es una simulación no es posible la lectura por cámara. Otra solución podría haber sido la selección de imagen por medio de un file chooser, pero éste proceso sería muy tedioso para el usuario, por lo que se me ocurrió una solución para simular el escaneo de los códigos, la solucion consiste en transformar la informacion en JSONs y despues concatenar la liga de la API con la string del JSON, de esta forma "creamos" el codigo sin tenerlo como imagen.
+Si algún día se desarrollara ésta aplicación para mobiles, se solicitaria acceso a la cámara para escanear los códigos, pero omo la aplicación solo es una simulación no es posible la lectura por cámara. Otra solución podría haber sido la selección de imagen por medio de un file chooser, pero éste proceso sería muy tedioso para el usuario, por lo que se me ocurrió una solución para simular el escaneo de los códigos, la solución consiste en transformar la información en JSONs y despues concatenar la liga de la API con la string del JSON, de esta forma "creamos" el código sin tenerlo como imagen.
 
 Como se mencionó previamente, a la aplicación pueden ingresar dos tipos de usarios, distribuidores y provedores, ambos que heredan de la clase abstracta **User.cs** que tiene tres atributos: UserID (int), UserName (String) y scanner (QRCode), y dos métodos: **GetUserQRCode()** (Para la creación de código QR explicada previamente) y **AuthenticateWithQR()** para conectarse con la API y obtener los datos de usuario.
 
@@ -67,8 +69,16 @@ El usuario provedor (`Supplier.cs`) tiene como atributos un diccionario de dicci
     - **CalulateOrderTotal()** recibe un diccionario de una orden de un provedor y regresa el total de la venta.
     - **ReadOrderQR(string v)** recibe una string en con un JSON y regresa un diccionario tipo orden (<int, int>).
     - **AddToOrders(int distributorID, string QRCode)** agrega al diccionario de ordenes el Id del distribuidor y el resultado de llamar a **ReadOrderQR(string v)** con QRCode como argumento.
-    - **ScanQRCodeFromDistributor(Distributor client)** obtiene el pedido de un distribuidor y manda llamar a la funcion **AddToOrders(int distributorID, string QRCode)** para guardar el pedido.
+    - **ScanQRCodeFromDistributor(Distributor client)** obtiene el pedido de un distribuidor y manda llamar a la función **AddToOrders(int distributorID, string QRCode)** para guardar el pedido.
 
+La clase producto (`Product.cs`) es una de las más simples ya que solo contiene 3 atributos: Name (String), ProductID (int) y Price (float).
+    
+También existe la clase abstracta vehículo repartidor (`DeliveryVehicle.cs`) que cuenta con 3. atributos: VehicleID (int), maxCapacity (float), curCapacity (float). La clase cuenta con tres métodos, **FullLoad()** que rellena el numero actual de productos a la capacidad maxima, **Deliver(float amount)** que resta la cantidad repartida a la cantidad actual, y **CanDeliver(float amount)** que regresa verdadero si su numero actual es mayor que la demanda.
+    De la clase abstracta vehículo repartidor (`DeliveryVehicle.cs`) hereda la clase camión repartidor(`DeliveryTruck.cs`) que en un futuro nos podría ayudar a implementar un patrón factory, ya que por tierra no es la unica forma de repartir productos.
+    
+La clase bitácora (`Logbook.cs`) la cual es una unica instancia (Singleton) es la encargada de llevar registro de eventos (`Log.cs`) en una lista de eventos, debería de tener tres métodos, en donde se aplicaría el patrón Observer, dichos métodos serían los encargados de mostrar en pantalla la bitácora en sus distintas presentaciones (txt file, grid layout y textbox). Por ahora solo existe el método **printLogs()** que muestra en pantalla todos los eventos. Los eventos (`Log.cs`) tienen tres atributos userId (int), eventId (int), dateTime (DateTime).
+    
+Finalmente la clase aplicación (`App.cs`) es la encargada de llevar el flujo de la ejecución, primero pregunta por el tipo de usuario y de acuerdo a éste, autenticará al usuario para poder realizar sus actividades. En el menu principal se encuentra la opción de visualizar la bitácora sin restricción de usuarios.
      
 
 ### Justificación
